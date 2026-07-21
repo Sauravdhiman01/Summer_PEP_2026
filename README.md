@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -72,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
