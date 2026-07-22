@@ -1,51 +1,45 @@
 class Solution {
-private:
-    bool getTopoSort(int src, vector<bool> &vis, vector<bool> &pathVis, vector<vector<int>> &graph)
-    {
-        vis[src] = true;
-        pathVis[src] = true;
-
-        for (int &neighbourNode : graph[src])
-        {
-            if (!vis[neighbourNode])
-            {
-                if (getTopoSort(neighbourNode, vis, pathVis, graph))
-                    return true;
-            }
-            else if (pathVis[neighbourNode])
-            {
-                return true;   
-            }
-        }
-
-        pathVis[src] = false;
-        return false;
-    }
-
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites)
     {
         vector<vector<int>> graph(numCourses);
+        vector<int> indegree(numCourses, 0);
 
         for (auto &edge : prerequisites)
         {
-            graph[edge[1]].push_back(edge[0]);
+            graph[edge[1]].push_back(edge[0]);   
+            indegree[edge[0]]++;
         }
 
-        vector<bool> vis(numCourses, false);
-        vector<bool> pathVis(numCourses, false);
+        queue<int> q;
 
         for (int node = 0; node < numCourses; node++)
         {
-            if (!vis[node])
+            if (indegree[node] == 0)
             {
-                if (getTopoSort(node, vis, pathVis, graph))
+                q.push(node);
+            }
+        }
+
+        int count = 0;
+
+        while (!q.empty())
+        {
+            int src = q.front();
+            q.pop();
+            count++;
+
+            for (int neighbour : graph[src])
+            {
+                indegree[neighbour]--;
+
+                if (indegree[neighbour] == 0)
                 {
-                    return false;   
+                    q.push(neighbour);
                 }
             }
         }
 
-        return true;   
+        return count == numCourses;
     }
 };
