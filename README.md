@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0207-course-schedule) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
