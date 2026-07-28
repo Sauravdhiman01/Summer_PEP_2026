@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
