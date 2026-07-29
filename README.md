@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
