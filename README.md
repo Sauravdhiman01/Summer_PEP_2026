@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
