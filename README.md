@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
