@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
