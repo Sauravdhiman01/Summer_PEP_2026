@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
