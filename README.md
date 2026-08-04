@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
+| [3731-find-missing-elements](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
