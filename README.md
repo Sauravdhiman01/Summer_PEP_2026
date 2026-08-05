@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [3731-find-missing-elements](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3536-maximum-product-of-two-digits) |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0877-stone-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
