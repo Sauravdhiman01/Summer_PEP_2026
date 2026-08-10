@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3731-find-missing-elements](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1143-longest-common-subsequence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
