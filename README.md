@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0141-linked-list-cycle) |
+| [0344-reverse-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/1143-longest-common-subsequence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Sauravdhiman01/Summer_PEP_2026/tree/master/2185-counting-words-with-a-given-prefix) |
